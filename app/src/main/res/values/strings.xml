@@ -3,4 +3,8 @@
     <string name="nama">Reziq</string>
     <string name="nohp">081256667833</string>
     <string name="qr">Scan My Code</string>
+    <string name="name">Enter Your Name</string>
+    <string name="phone">Enter Your Phone Number</string>
+    <string name="address">Enter Your Address</string>
+
 </resources>
