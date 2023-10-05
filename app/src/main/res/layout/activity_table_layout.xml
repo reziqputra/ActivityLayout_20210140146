@@ -38,7 +38,7 @@
         <EditText
             android:id="@+id/edit1"
             android:layout_width="230dp"
-            android:text="@string/name">
+            android:hint="@string/name">
 
         </EditText>
     </TableRow>
@@ -59,7 +59,7 @@
         <EditText
             android:id="@+id/edit2"
             android:layout_width="230dp"
-            android:text="@string/phone"/>
+            android:hint="@string/phone"/>
     </TableRow>
 
     <TableRow
@@ -78,7 +78,7 @@
         <EditText
             android:id="@+id/edit3"
             android:layout_width="230dp"
-            android:text="@string/address"/>
+            android:hint="@string/address"/>
     </TableRow>
 
     <TableRow
@@ -91,7 +91,8 @@
             android:id="@+id/button8"
             android:layout_width="117dp"
             android:layout_height="50dp"
-            android:text="Submit" />
+            android:text="Submit"
+            />
     </TableRow>
 
 </TableLayout>
